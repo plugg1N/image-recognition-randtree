@@ -17,8 +17,8 @@ As I have noticed, Random Forest turned out to be ~10% better, than Decision Tre
 
 Those are **RESULTS** (accuracy/precision/recall):
 
-![](https://github.com/plugg1N/image-recognition-randtree/blob/main/Images/image2.png?raw=true)
+![](https://github.com/plugg1N/image-recognition-randtree/blob/main/Images/images2.png?raw=true)
 
 **BOOTSTRAP BOUNDARIES** *(доверительные интервалы)* of variable accuracy/precision/recall:
 
-![](https://github.com/plugg1N/image-recognition-randtree/blob/main/Images/image3.png?raw=true)
+![](https://github.com/plugg1N/image-recognition-randtree/blob/main/Images/images3.png?raw=true)
